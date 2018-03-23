@@ -1,0 +1,6 @@
+C:\Users\Thong\Desktop\oan_tu_xi\Oantuxi\Sever\bin\Debug\Sever.exe.config
+C:\Users\Thong\Desktop\oan_tu_xi\Oantuxi\Sever\bin\Debug\Sever.exe
+C:\Users\Thong\Desktop\oan_tu_xi\Oantuxi\Sever\bin\Debug\Sever.pdb
+C:\Users\Thong\Desktop\oan_tu_xi\Oantuxi\Sever\obj\Debug\Sever.csprojResolveAssemblyReference.cache
+C:\Users\Thong\Desktop\oan_tu_xi\Oantuxi\Sever\obj\Debug\Sever.exe
+C:\Users\Thong\Desktop\oan_tu_xi\Oantuxi\Sever\obj\Debug\Sever.pdb

@@ -1,0 +1,9 @@
+C:\Users\Thong\Desktop\oan_tu_xi\Oantuxi\Oantuxi\bin\Debug\Oantuxi.exe.config
+C:\Users\Thong\Desktop\oan_tu_xi\Oantuxi\Oantuxi\bin\Debug\Oantuxi.exe
+C:\Users\Thong\Desktop\oan_tu_xi\Oantuxi\Oantuxi\bin\Debug\Oantuxi.pdb
+C:\Users\Thong\Desktop\oan_tu_xi\Oantuxi\Oantuxi\obj\Debug\Oantuxi.csprojResolveAssemblyReference.cache
+C:\Users\Thong\Desktop\oan_tu_xi\Oantuxi\Oantuxi\obj\Debug\Oantuxi.Form1.resources
+C:\Users\Thong\Desktop\oan_tu_xi\Oantuxi\Oantuxi\obj\Debug\Oantuxi.Properties.Resources.resources
+C:\Users\Thong\Desktop\oan_tu_xi\Oantuxi\Oantuxi\obj\Debug\Oantuxi.csproj.GenerateResource.Cache
+C:\Users\Thong\Desktop\oan_tu_xi\Oantuxi\Oantuxi\obj\Debug\Oantuxi.exe
+C:\Users\Thong\Desktop\oan_tu_xi\Oantuxi\Oantuxi\obj\Debug\Oantuxi.pdb
